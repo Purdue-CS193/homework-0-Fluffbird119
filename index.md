@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages Hiiiii! :)
+## This is JAY ANTHONY'S first CS 193 homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## MY favorite things in CS 193
+```markdown
+- I'm learning github better because my expirience with it is quite little
+- It's taught by TA's which I think makes it easier to have a connection with the teachers
+- Computer science is cool and this is a comp sci class
+```
+
+
 
 ### Markdown
 
